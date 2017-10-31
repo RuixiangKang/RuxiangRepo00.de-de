@@ -1,0 +1,9 @@
+log/
+xhtml/
+packages/
+obj/
+_site/
+
+.openpublishing.build.mdproj
+.openpublishing.build.ps1
+packages.config
